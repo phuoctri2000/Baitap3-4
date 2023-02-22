@@ -1,0 +1,22 @@
+#title {
+    text-align: center;
+}
+/* để dòng comment ở đây :)))*/
+.title3 {
+    text-align: center;
+    color: green;
+}
+
+#title2 {
+    font-size: 30px;
+}
+#coppyright {
+    text-align: right;
+}
+.contact{
+    font-style: italic;
+    font-weight: bold;
+}
+img{
+    float: left;
+}
